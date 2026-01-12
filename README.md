@@ -7,48 +7,24 @@ This repository contains Java implementations of common **data structures**, dev
 
 ## 📘 Contents
 
-- 📦 Arrays and ArrayLists
-- 🔁 Linked Lists (Singly / Doubly)
-- 🌲 Trees and Binary Search Trees
-- 📊 Stacks and Queues
-- 🗺️ Hash Tables
-- 🧭 Sorting and Searching Algorithms
+* 📦 **Arrays and ArrayLists**
+* 🔗 **Linked Lists** (Singly / Doubly)
+* 🌲 **Trees and Binary Search Trees**
+* 📚 **Stacks and Queues**
+* 🔑 **Hash Tables**
+* ⚡ **Sorting and Searching Algorithms**
 
 ---
 
 ## 🧠 Concepts Practiced
 
-- Object-Oriented Design in Java  
-- Time and Space Complexity Awareness  
-- Algorithm Implementation and Analysis
+* **Object-Oriented Design** in Java
+* **Time and Space Complexity** Awareness (Big O Notation)
+* **Algorithm Implementation** and Analysis
 
 ---
 
-# 🧮 Java ile Veri Yapıları
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Bu repoda, **Veri Yapıları** dersi kapsamında geliştirilen temel **Java** veri yapısı uygulamaları yer almaktadır.
-
----
-
-## 📘 İçerik
-
-- 📦 Diziler ve ArrayList yapıları  
-- 🔁 Bağlı Listeler (Tek / Çift yönlü)  
-- 🌲 Ağaçlar ve İkili Arama Ağaçları  
-- 📊 Yığın (Stack) ve Kuyruk (Queue)  
-- 🗺️ Hash Tablolar  
-- 🧭 Sıralama ve Arama Algoritmaları
-
----
-
-## 🧠 Kazanımlar
-
-- Java ile nesne yönelimli algoritma geliştirme  
-- Zaman ve bellek karmaşıklığı farkındalığı  
-- Temel algoritma analizi ve uygulaması
-
----
-
-## 👨‍💻 Developer / Geliştirici
-
-**Yusuf Tufan**  
+Copyright (c) 2025 YusufTufan
